@@ -12,15 +12,13 @@
 
 
 <a name="概要"></a>
-# <span style="font-size:16px;color:#338DCD">概要</span>
+# <font color="#338DD" size="3" style="font-style:bold">概要</font>
     
     系统总体设计就是寻找实现目标系统的不同方案，并从供选择的方案中选取若干个合理的方案，并从
     成本/效益上来分析，并且制定实现这个方案的计划。
-
-
-
+    
 <a name="设计原理及遵循的相关规则"></a>
-# <span style="font-size:16px;color:#338DCD">设计原理及遵循的相关规则</span>    
+# <font color="#338DD" size="3" style="font-style:bold">设计原理及遵循的相关规则</font>    
 
   > 抽象 
 
@@ -41,8 +39,7 @@
 
   > 模块独立
 
-       模块独立即要求每个模块具有独立功能而且和其他模块之间没有过多的相互作用。模块独立是好设计
-       的关键。     
+       模块独立即要求每个模块具有独立功能而且和其他模块之间没有过多的相互作用。模块独立是好设计的关键。
 
   >  耦合
 
@@ -94,7 +91,7 @@ $$
 
 
 <a name="图形工具"></a>
-# <span style="font-size:16px;color:#338DCD">图形工具</span> 
+# <font color="#338DD" size="3" style="font-style:bold">图形工具</font> 
     
   + 层次图
   + HIPO图

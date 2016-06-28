@@ -4,6 +4,10 @@
 
     1. MyBatis 拥有连接池用来管理数据库连接，而JDBC没有.
     2. MyBatis 能够减少代码的编写量
+ 
+    4. MyBatis 需要很少的配置
+    5. MyBatis 使用灵活性很强, 自定义SQL , 自由传参，结果集自动赋值
+
 
  <span style="color:#338DCD">MyBatis vs Herbernate</span>
  
