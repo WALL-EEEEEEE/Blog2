@@ -2,14 +2,13 @@
 ##### 目录
 <!-- MarkdownTOC -->
 
-- [人工神经网络的相关介绍](#人工神经网络的相关介绍)
-- [BP神经网络算法的相关介绍](#bp神经网络算法的相关介绍)
-- [神经网络的基本原理](#神经网络的基本原理)
-- [参考资料](#参考资料)
+- 人工神经网络的相关介绍
+- BP神经网络算法的相关介绍
+- 神经网络的基本原理
+- 参考资料
 
 <!-- /MarkdownTOC -->
 
-<a name="人工神经网络的相关介绍"></a>
 # <span style="font-size:16px;color:#338DCD">人工神经网络的相关介绍</span> 
 
 
@@ -21,14 +20,11 @@
 >   4. 自适应共振理论
 >   5. 反向传播网络(BP)
 
-
  
-<a name="bp神经网络算法的相关介绍"></a>
 # <span style="font-size:16px;color:#338DCD">BP神经网络算法的相关介绍</span>
 
 > BP神经网络(Back Progapation Neural Network), 又称反向传播神经网络。BP神经网络是一种多层的前馈神经网络，其主要的特点是: 信号是前向传播，而误差是反向传播。
 
-<a name="神经网络的基本原理"></a>
 # <span style="font-size:16px;color:#338DCD">神经网络的基本原理</span>
 
 ![neure](./img/gluecell.jpg)
@@ -46,7 +42,6 @@
    )=>生物神经元突触
 
 
-<a name="参考资料"></a>
 # <span style="font-size:16px;color:#338DCD">参考资料</span>
   
   + [http://blog.csdn.net/google19890102/article/details/32723459](http://blog.csdn.net/google19890102/article/details/32723459)
