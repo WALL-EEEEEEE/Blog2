@@ -1,13 +1,13 @@
 目录
 <!-- MarkdownTOC -->
 
-- 写这篇博文的缘由
+  - 写这篇博文的缘由
 - Sublime插件列表
 
 <!-- /MarkdownTOC -->
 
 ---
-
+`
 
 
 ```
@@ -16,7 +16,7 @@
 ```
 
 # <span style="font-size:16px;color:#338DCD">写这篇博文的缘由</span>
-   为什么写这篇博文呢？
+因为我们正的很喜欢 为什么写这篇博文呢？
 
 # <span style="font-size:16px;color:#338DCD">Sublime插件列表</span>  
 
@@ -29,6 +29,4 @@
 +  VintageEx(SublimeText2)/VintageEs(SublimeText3)
 +  SbulimeCodeIntel
 +  ColorPicker
-
-
 
